@@ -19,7 +19,7 @@
     "gatsby-plugin-react-helmet": "^6.8.0",
     "gatsby-plugin-react-svg": "^4.5.0",
     "gatsby-plugin-sass": "^6.9.0",
-    "gatsby-plugin-sharp": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.0.0-next",
     "gatsby-plugin-sitemap": "^6.9.0",
     "gatsby-remark-copy-linked-files": "^6.8.0",
     "gatsby-remark-images": "^7.9.0",
