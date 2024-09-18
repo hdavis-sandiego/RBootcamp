@@ -1,3 +1,8 @@
+npm cache clean --force
+npm rebuild sharp --unsafe-perm --build-from-source
+
+
+
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
